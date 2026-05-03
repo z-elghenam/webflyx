@@ -3,3 +3,6 @@ secure/
 
 # Ignore guilty pleasures file
 guilty_pleasures.md
+
+# Ignore generated HTML files
+advert.html
